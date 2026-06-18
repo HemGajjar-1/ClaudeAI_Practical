@@ -20,19 +20,6 @@ This project demonstrates a layered enterprise-style architecture using in-memor
 - Console-based menu system
 - In-memory data storage
 
----
-
-## Architecture
-StudentManagementSystem
-│
-├── StudentManagement.Domain
-├── StudentManagement.Application
-├── StudentManagement.Infrastructure
-├── StudentManagement.Console
-└── StudentManagement.Tests
-
----
-
 ## Layers
 
 ### Domain
