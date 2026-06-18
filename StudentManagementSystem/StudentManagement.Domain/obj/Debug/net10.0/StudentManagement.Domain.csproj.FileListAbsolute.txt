@@ -9,3 +9,4 @@ C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentM
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net10.0\refint\StudentManagement.Domain.dll
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net10.0\StudentManagement.Domain.pdb
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net10.0\ref\StudentManagement.Domain.dll
+C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net10.0\StudentManagement.Domain.sourcelink.json

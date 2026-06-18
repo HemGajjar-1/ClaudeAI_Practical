@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.application\\claude.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\claude.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{7F8C9DFF-22A4-017B-F984-D165634724D4}|StudentManagement.Console\\StudentManagement.Console.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.console\\ui\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8C9DFF-22A4-017B-F984-D165634724D4}|StudentManagement.Console\\StudentManagement.Console.csproj|solutionrelative:studentmanagement.console\\ui\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8C9DFF-22A4-017B-F984-D165634724D4}|StudentManagement.Console\\StudentManagement.Console.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8C9DFF-22A4-017B-F984-D165634724D4}|StudentManagement.Console\\StudentManagement.Console.csproj|solutionrelative:studentmanagement.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.infrastructure\\persistence\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\persistence\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.infrastructure\\dependencyinjection\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\dependencyinjection\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E1A9B0-C096-EFAD-C50A-7BB32E88754E}|StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E1A9B0-C096-EFAD-C50A-7BB32E88754E}|StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF475A-9E24-8F79-78D3-431D913214E8}|StudentManagement.Tests\\StudentManagement.Tests.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF475A-9E24-8F79-78D3-431D913214E8}|StudentManagement.Tests\\StudentManagement.Tests.csproj|solutionrelative:studentmanagement.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\hem.gajjar\\desktop\\claude_ai practical\\studentmanagementsystem\\studentmanagement.infrastructure\\unitofworklayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\unitofworklayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +51,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CLAUDE.md",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Application\\CLAUDE.md",
-              "RelativeDocumentMoniker": "StudentManagement.Application\\CLAUDE.md",
-              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Application\\CLAUDE.md",
-              "RelativeToolTip": "StudentManagement.Application\\CLAUDE.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T10:55:16.534Z",
+              "Title": "StudentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Console\\UI\\StudentMenu.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Console\\UI\\StudentMenu.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Console\\UI\\StudentMenu.cs",
+              "RelativeToolTip": "StudentManagement.Console\\UI\\StudentMenu.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:12:35.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:12:25.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Tests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Tests\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Tests\\StudentServiceTests.cs",
+              "RelativeToolTip": "StudentManagement.Tests\\StudentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:08:41.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\DependencyInjection\\InfrastructureServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:04:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Persistence\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Persistence\\InMemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Persistence\\InMemoryDatabase.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Persistence\\InMemoryDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:03:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Console\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Console\\Program.cs",
+              "RelativeToolTip": "StudentManagement.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:59:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\UnitOfWorkLayer\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\UnitOfWorkLayer\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\UnitOfWorkLayer\\UnitOfWork.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\UnitOfWorkLayer\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:59:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:59:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:31:10.356Z",
+              "EditorCaption": ""
             }
           ]
         }

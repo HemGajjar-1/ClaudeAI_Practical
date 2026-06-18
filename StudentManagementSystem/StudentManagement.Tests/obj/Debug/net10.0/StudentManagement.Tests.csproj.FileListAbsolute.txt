@@ -100,3 +100,4 @@ C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentM
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Tests\obj\Debug\net10.0\StudentManagement.Tests.pdb
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Tests\obj\Debug\net10.0\StudentManagement.Tests.genruntimeconfig.cache
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Tests\obj\Debug\net10.0\ref\StudentManagement.Tests.dll
+C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Tests\obj\Debug\net10.0\StudentManagement.Tests.sourcelink.json

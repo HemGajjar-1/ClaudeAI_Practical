@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6UbOqmRTIDY=",
+  "dgSpecHash": "m+ylrslRjMk=",
   "success": true,
   "projectFilePath": "C:\\Users\\hem.gajjar\\Desktop\\Claude_Ai Practical\\StudentManagementSystem\\StudentManagement.Tests\\StudentManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
     "C:\\Users\\hem.gajjar\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.1\\microsoft.testplatform.testhost.17.14.1.nupkg.sha512",

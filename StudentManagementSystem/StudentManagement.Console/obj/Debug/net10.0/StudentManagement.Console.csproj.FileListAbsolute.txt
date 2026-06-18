@@ -20,3 +20,6 @@ C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentM
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\obj\Debug\net10.0\StudentManagement.Console.pdb
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\obj\Debug\net10.0\StudentManagement.Console.genruntimeconfig.cache
 C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\obj\Debug\net10.0\ref\StudentManagement.Console.dll
+C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\obj\Debug\net10.0\StudentManagement.Console.sourcelink.json
+C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hem.gajjar\Desktop\Claude_Ai Practical\StudentManagementSystem\StudentManagement.Console\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
