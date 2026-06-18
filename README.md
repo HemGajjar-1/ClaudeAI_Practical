@@ -1,4 +1,3 @@
-```md
 # Student Management System (Clean Architecture + Repository Pattern)
 
 A C# console-based Student Management System built using Clean Architecture principles with Repository Pattern, Generic Repository, Unit of Work, Dependency Injection, and xUnit testing.
@@ -7,7 +6,7 @@ A C# console-based Student Management System built using Clean Architecture prin
 
 ## Overview
 
-This project demonstrates a layered enterprise-style architecture using in-memory storage (no database). It focuses on clean separation of concerns, testability, and maintainable design.
+This project demonstrates a layered enterprise-style architecture using in-memory storage (no database). It focuses on clean separation of concerns, strong testability, and maintainable design.
 
 ---
 
@@ -24,9 +23,6 @@ This project demonstrates a layered enterprise-style architecture using in-memor
 ---
 
 ## Architecture
-
-```
-
 StudentManagementSystem
 │
 ├── StudentManagement.Domain
@@ -35,36 +31,47 @@ StudentManagementSystem
 ├── StudentManagement.Console
 └── StudentManagement.Tests
 
-```
-
 ---
 
 ## Layers
 
 ### Domain
-- Core entity: Student
+
+- Core entity: `Student`
 - No external dependencies
 - No business logic outside entity rules
 
+---
+
 ### Application
+
 - Business logic layer
-- StudentService + interfaces
+- `StudentService` + interfaces
 - DTOs (if needed)
-- Depends only on Domain
+- Depends only on Domain layer
+
+---
 
 ### Infrastructure
-- Generic Repository
-- Unit of Work
-- In-memory storage implementation
+
+- Generic Repository implementation
+- Unit of Work implementation
+- In-memory storage
 - Repository implementations
 
+---
+
 ### Console
-- Program.cs entry point
+
+- Entry point (`Program.cs`)
 - Menu-driven UI
 - Dependency Injection setup
 - No business logic
 
+---
+
 ### Tests
+
 - xUnit test project
 - Tests Application layer only
 - Uses in-memory implementations
@@ -74,8 +81,8 @@ StudentManagementSystem
 ## Design Patterns
 
 - Repository Pattern
-- Generic Repository
-- Unit of Work
+- Generic Repository Pattern
+- Unit of Work Pattern
 - Dependency Injection
 - Service Layer Pattern
 
@@ -83,11 +90,11 @@ StudentManagementSystem
 
 ## Student Entity Rules
 
-- Id: int (required, unique)
-- Name: string (required, max 100)
-- Email: string (required, valid format)
-- EnrollmentDate: DateTime (required)
-- Grade: double (0–100)
+- **Id**: int (required, unique)
+- **Name**: string (required, max 100)
+- **Email**: string (required, valid format)
+- **EnrollmentDate**: DateTime (required)
+- **Grade**: double (0–100)
 
 ---
 
@@ -98,7 +105,7 @@ Minimum test coverage includes:
 - Add Student
 - Get All Students
 - Get Student By ID
-- Update Grade
+- Update Student Grade
 - Delete Student
 
 ---
@@ -127,11 +134,9 @@ Minimum test coverage includes:
 ## Purpose
 
 This project is designed for learning:
+
 - Real-world architecture structure
 - Enterprise-level design patterns
 - Layered application development
 - Unit testing practices
 - Dependency management in .NET
-
----
-```
