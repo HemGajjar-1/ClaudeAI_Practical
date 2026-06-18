@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "StudentManagement.Infrastructure/1.0.0": {
+        "dependencies": {
+          "StudentManagement.Application": "1.0.0",
+          "StudentManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.Infrastructure.dll": {}
+        }
+      },
+      "StudentManagement.Application/1.0.0": {
+        "dependencies": {
+          "StudentManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StudentManagement.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StudentManagement.Domain/1.0.0": {
+        "runtime": {
+          "StudentManagement.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagement.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
